@@ -19,3 +19,7 @@ Para ejecutar el script sin generar errores solo es necesario ejecutar cada celd
 
 >[!WARNING]
 >Algunas de las funciones pueden demorar más de 2 horas dependiendo del entorno de ejecución en el que se ejecuta.
+
+---
+## Video explicativo
+[Explicación sobre los elementos del Script](https://drive.google.com/file/d/1LKLv0XQIOHQ1vDXIpVUxoBTNbiEOZM3E/view?usp=sharing)
